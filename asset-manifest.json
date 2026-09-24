@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rawgraphs-live/static/css/main.865b6065.chunk.css",
+    "main.js": "/rawgraphs-live/static/js/main.a12ee6ea.chunk.js",
+    "runtime-main.js": "/rawgraphs-live/static/js/runtime-main.6613387d.js",
+    "static/css/2.df1be907.chunk.css": "/rawgraphs-live/static/css/2.df1be907.chunk.css",
+    "static/js/2.d86588d3.chunk.js": "/rawgraphs-live/static/js/2.d86588d3.chunk.js",
+    "static/js/3.3dc0c1b8.chunk.js": "/rawgraphs-live/static/js/3.3dc0c1b8.chunk.js",
+    "index.html": "/rawgraphs-live/index.html",
+    "static/js/2.d86588d3.chunk.js.LICENSE.txt": "/rawgraphs-live/static/js/2.d86588d3.chunk.js.LICENSE.txt",
+    "static/js/worker.70959950.worker.js": "/rawgraphs-live/static/js/worker.70959950.worker.js",
+    "static/media/index.scss": "/rawgraphs-live/static/media/Inter.var.a738a131.woff2",
+    "static/media/DataGrid.module.scss": "/rawgraphs-live/static/media/arrow-up.fb1aab50.svg",
+    "static/media/asterisk.a0a42b25.svg": "/rawgraphs-live/static/media/asterisk.a0a42b25.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6613387d.js",
+    "static/css/2.df1be907.chunk.css",
+    "static/js/2.d86588d3.chunk.js",
+    "static/css/main.865b6065.chunk.css",
+    "static/js/main.a12ee6ea.chunk.js"
+  ]
+}
